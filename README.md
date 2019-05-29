@@ -27,3 +27,18 @@ Here is a picture of Earth:
 ![Image of Earth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/220px-The_Earth_seen_from_Apollo_17.jpg)
 
 [Here is a link to Arthur C. Clark's Wikipedia page](https://en.wikipedia.org/wiki/Arthur_C._Clarke)
+### Code
+If I want to write code in the same line as text, I simply have to use backticks: `this is code = yes it is`. I can also block out a longer bit of code using an indent of four spaces:
+    
+    this is code {yep it sure is}
+    
+The following if an example of code fencing which uses three backticks in the place of indents:
+```
+this is code fencing code = true
+```
+Here is example of syntax highlighting using javascript:
+```javascript
+if (isCode){
+  return true
+}
+```
