@@ -34,7 +34,7 @@ If I want to write code in the same line as text, I simply have to use backticks
     
 The following if an example of code fencing which uses three backticks in the place of indents:
 ```
-this is code fencing code = true
+this is code fencing = true
 ```
 Here is example of syntax highlighting using javascript:
 ```javascript
