@@ -31,6 +31,7 @@ Arthur C. Clark's third law:
 
 ### Images and Links
 Here is a picture of Earth:
+
 ![Image of Earth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/220px-The_Earth_seen_from_Apollo_17.jpg)
 
 [Here is a link to Arthur C. Clark's Wikipedia page](https://en.wikipedia.org/wiki/Arthur_C._Clarke)
